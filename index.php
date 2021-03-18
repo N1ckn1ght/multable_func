@@ -13,7 +13,7 @@
 			<label>
 				<p>Высота</p>
 				<input type="number" name="height">
-			<label>
+			</label>
 			<button type="submit">
 				ОК
 			</button>
