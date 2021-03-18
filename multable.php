@@ -25,7 +25,7 @@
 				{
 					$result .= '<td width=25 height=25 align=center bgcolor=FFCB9C>'.$i.'</td>';
 				}
-				else if ($j == $j)
+				else if ($i == $j)
 				{
 					$result .= '<td width=25 height=25 align=center bgcolor=F6FC92>'.$i * $j.'</td>';
 				}
